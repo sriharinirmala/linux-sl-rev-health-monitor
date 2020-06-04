@@ -1,5 +1,6 @@
 # linux-sl-rev-health-monitor
 in this we are going to see about commnds like - sl,rev and how to monitor the health of the system using linux
+
 SCRIPT2.sh: download this file and run it in your terminal ./script2.sh
 After executing the packages for sl will be installed and a train like structure will be moving in your terminal which is because of sl command. "sl" command is a fun command.
 
