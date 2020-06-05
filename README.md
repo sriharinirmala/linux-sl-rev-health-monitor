@@ -5,6 +5,10 @@ SCRIPT2.sh: download this file and run it in your terminal ./script2.sh After ex
 
 Script1.sh: it contains the the command "rev"(download this file) rev - is a command used to reverse the word that you enter. so after executing this(by typing this in your terminal ./script1.sh). it will prompt you to enter a word when you type a word and press enter the reverse of that word will be displayed.
 
+"FACTOR": The factor command displays the factor of the entered number
+
+"YES":Yes command just displays y in terminal until you cancel it
+
 health.sh: first download this file and run it in your terminal by typing ./health.sh if it shows permission denied type chmod +x health.sh and then type ./health.sh in the linux terminal EXPLANATION of code in health.sh: vmstat - vmstat is a command which displays many information about the system which is useful for the monitoring of system
 
 the vmstat 1200 – monitors every 24 hours and puts the data into the vmstat1.data
